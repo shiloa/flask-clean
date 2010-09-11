@@ -21,12 +21,12 @@ input, select {
   vertical-align: middle; }
 
 ::-moz-selection {
-  background: #FF5E99;
+  background: #ADC0FF;
   color: #fff;
   text-shadow: none; }
 
 ::selection {
-  background: #FF5E99;
+  background: #ADC0FF;
   color: #fff;
   text-shadow: none; }
 
